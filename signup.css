@@ -1,0 +1,15 @@
+body {
+
+    background-color: pink;
+}
+h2 {
+    color:greenyellow;
+    text-align: center;
+    margin-right: 150px;
+}
+.wrap {
+    margin:0px 0px 0px 300px; 
+}
+.box {
+    border: 2px solid red;
+}
